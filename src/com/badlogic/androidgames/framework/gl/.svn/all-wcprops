@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/gl
+END
+Animation.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/gl/Animation.java
+END
+SpriteBatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/gl/SpriteBatcher.java
+END
+Texture.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/gl/Texture.java
+END
+TextureRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/gl/TextureRegion.java
+END
+Vertices.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/gl/Vertices.java
+END
+Font.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/gl/Font.java
+END
+SpatialHashGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/gl/SpatialHashGrid.java
+END
+FPSCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/gl/FPSCounter.java
+END
+Camera2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/gl/Camera2D.java
+END

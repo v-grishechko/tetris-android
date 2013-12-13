@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/impl
+END
+AndroidPixmap.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/impl/AndroidPixmap.java
+END
+AndroidInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/impl/AndroidInput.java
+END
+AndroidGraphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/impl/AndroidGraphics.java
+END
+GLScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/impl/GLScreen.java
+END
+AndroidAudio.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/impl/AndroidAudio.java
+END
+AndroidFileIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/impl/AndroidFileIO.java
+END
+AccelerometerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/impl/AccelerometerHandler.java
+END
+AndroidGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/impl/AndroidGame.java
+END
+TouchHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/impl/TouchHandler.java
+END
+AndroidMusic.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/impl/AndroidMusic.java
+END
+SingleTouchHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/impl/SingleTouchHandler.java
+END
+GLGraphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/impl/GLGraphics.java
+END
+AndroidSound.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/impl/AndroidSound.java
+END
+AndroidFastRenderView.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/impl/AndroidFastRenderView.java
+END
+MultiTouchHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/impl/MultiTouchHandler.java
+END
+GLGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/impl/GLGame.java
+END
+KeyboardHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/impl/KeyboardHandler.java
+END

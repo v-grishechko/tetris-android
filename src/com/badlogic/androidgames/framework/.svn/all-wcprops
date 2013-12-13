@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework
+END
+Input.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Input.java
+END
+TestScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/TestScreen.java
+END
+Screen.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Screen.java
+END
+Graphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Graphics.java
+END
+GameObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/GameObject.java
+END
+Music.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Music.java
+END
+Audio.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Audio.java
+END
+DynamicGameObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/DynamicGameObject.java
+END
+FileIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/FileIO.java
+END
+Sound.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Sound.java
+END
+Game.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Game.java
+END
+Pool.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Pool.java
+END
+Color.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Color.java
+END
+Pixmap.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Pixmap.java
+END
