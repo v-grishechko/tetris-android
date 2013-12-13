@@ -6,3 +6,6 @@ My first awesome game. I write this game, when I was in 9 form :). This game onl
 ![ScreenShot](screenshot.png)
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ultimate39/tetris-android/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ultimate39/tetris-android/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
